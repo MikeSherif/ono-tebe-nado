@@ -1,2 +1,1 @@
-# ono-tebe-nado
-Проект "Оно тебе надо"
+https://github.com/MikeSherif/ono-tebe-nado
